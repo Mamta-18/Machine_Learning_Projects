@@ -233,8 +233,6 @@ r2_score(y_test, regressor.predict(X_test))
 ✔ Achieved moderate test accuracy  
 ✔ Ready for deployment/improvement  
 
----
 
-
-**Adarsh C**  
-📞 +91 90721 37611
+**Adarsh 
+📞 +91 90721 
